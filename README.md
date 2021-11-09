@@ -9,9 +9,9 @@ Achieved 83% Accuracy on 82 labels on test set
 Achieved peak 91% Accuracy on train set
 
 Running Notebook locally:\
-***Warning: YOU NEED A GPU IN ORDER TO RUN THIS FAST***\
-1. To set up your GPU please install CUDA 11.1 from https://developer.nvidia.com/cuda-11.1.0-download-archive\
-2. Create a conda env (download conda from https://www.anaconda.com/products/individual)\
+***Warning: YOU NEED A GPU IN ORDER TO RUN THIS FAST***
+1. To set up your GPU please install CUDA 11.1 from https://developer.nvidia.com/cuda-11.1.0-download-archive
+2. Create a conda env (download conda from https://www.anaconda.com/products/individual)
 3. Download ```pytorch for CUDA 11.1, numpy, pandas, ipykernel```\
 Use this command for pytorch
 ```
